@@ -1,0 +1,27 @@
+.menuBar{
+    background-color: rgb(231,168,78);
+    height: 100px;
+    width: 100%;
+    display: flex;
+}
+body{
+    margin: 0;
+}
+.menuButtons{
+    display: flex;
+    margin: auto;
+    justify-content: end;
+    margin-left: 40%;
+}
+.menuButtons div{
+    margin: 20px;
+    display: inline-block;
+}
+.menuLogo{
+    display: inline-block;
+}
+.menuMiniHolder{
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
